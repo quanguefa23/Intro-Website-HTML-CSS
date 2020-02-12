@@ -1,0 +1,37 @@
+
+@font-face {
+	font-family: 'mijas';
+	src: 	url('../fonts/Mijas-Ultra.eot');
+	src:	url('../fonts/Mijas-Ultra.woff') format('woff'), 
+			url('../fonts/Mijas-Ultra.ttf') format('truetype'), 
+			url('../fonts/Mijas-Ultra.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'sarifa';
+	src: 	url('../fonts/SVN-Sarifa.eot');
+	src: 	url('../fonts/SVN-Sarifa.woff') format('woff'), 
+			url('../fonts/SVN-Sarifa.ttf') format('truetype'), 
+			url('../fonts/SVN-Sarifa.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'beloved';
+	src: 	url('../fonts/SVN-Beloved.eot');
+	src: 	url('../fonts/SVN-Beloved.woff') format('woff'), 
+			url('../fonts/SVN-Beloved.ttf') format('truetype'), 
+			url('../fonts/SVN-Beloved.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'candombe';
+	src: 	url('../fonts/UTM Candombe.eot');
+	src: 	url('../fonts/UTM Candombe.woff') format('woff'), 
+			url('../fonts/UTM Candombe.ttf') format('truetype'), 
+			url('../fonts/UTM Candombe.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}

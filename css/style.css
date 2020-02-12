@@ -1,0 +1,127 @@
+@import 'style-link.css';
+@import 'layout.css';
+@import 'font.css';
+body{ 
+    background-image: url('../images/city.jpg');
+    background-attachment: fixed;
+    background-position: auto;
+    background-size: cover;
+    background-color: hsla(175, 91%, 31%, 0.4);
+}
+.all {
+    background-color: hsla(175, 91%, 31%, 0.4);
+}
+h2 {
+    color:rgba(1, 64, 239, 0.95);
+    font-size:25px;
+}
+h3 {
+    color: #7f00ff;
+}
+ol, ul, p, .style1, .style2, .style3{
+    font-size:18px;
+    color: black;
+}
+.style1{
+    padding-top: 20px;
+    padding-bottom: 5px;
+    color:#383838;
+    font-size:20px;
+    font-weight: bold;
+}
+.style2{
+    font-family: sans-serif;	
+    font-size:17px;
+    color: #424242;
+    font-style:italic;
+    font-weight:normal;
+}
+.style2x{
+    font-family: sans-serif;	
+    font-size:15px;
+    color: #424242;
+    font-style:italic;
+    font-weight:normal;
+}
+
+.style4{
+    color:firebrick;
+    font-size:18px;
+    font-weight:bold;
+    padding-top: 50px;
+    padding-bottom: 2px;
+}
+
+#aotheduc, [src*="../images/mypictures/"]{
+    border-style: solid;
+    border-width: 1px;
+    border-color: #6E6E6E;
+}
+.title1{
+    font-size:30px;
+    text-align:center;
+    font-weight:bolder;
+    padding-top:30px;
+    padding-bottom:10px;
+    color:#ffe200;
+}
+.title2{
+    font-size:18px;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: #a1a8c6;
+    text-shadow: 2px -2px 2px hsla(277, 91%, 1%, 1), -2px 2px 2px hsla(277, 91%, 1%, 1);
+    padding-top:20px;
+    font-weight: normal;
+    padding-bottom:30px;
+    font-style: italic;
+}
+.title2:first-letter{
+    font-size:30px;
+    font-weight: bold;
+}
+p, i {
+    color: black;
+}
+.contact {
+    text-align: center;
+    display:inline-block;
+    width: 230px;
+}
+.catalogg ul {
+    list-style-type: none;
+}
+.catalogg a {
+    font-size: 14px;
+    position: relative;
+    bottom: 5px;
+    padding: 17px 60px 19px 60px;
+    color: #d6d6d6;
+}
+
+.catalog a:hover {
+    color:#FFF;
+    background-color: hsla(213, 19%, 16%, 1);
+}
+.pointed:visited, .pointed:link {
+    color:#FFF;
+    background-color: hsla(213, 19%, 16%, 1);
+}
+.catalogg li {
+    display: inline;
+    position: relative;
+    bottom: 1px;
+    margin-right: -5px;
+}
+.banner {
+    font-family: mijas;
+    color: rgba(13, 227, 242, 1);
+    background-color: #0f2833;
+    font-size:25px;
+    display: inline;
+    position: relative;
+    bottom: 2px;
+    padding: 16px 49px 14px 40px;
+    margin-left: -40px;
+    width: 50%;
+}

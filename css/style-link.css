@@ -1,0 +1,45 @@
+a:link {
+    color: #fff; 
+    background-color: transparent; 
+}
+a:visited {
+    color: #fff;
+    background-color: transparent;
+}
+a {
+    text-decoration: none;   
+}
+
+.a2:link, .a2:visited {
+    color: rgba(1, 64, 239, 1); 
+}
+.a2:hover {
+    background-color: #2E64FE;
+    color:#E6E6E6;
+}
+
+.a1:link {
+    color: darkslategray; 
+    background-color: transparent; 
+    text-decoration: none;
+}
+
+.a1:visited {
+    color: darkslategray;
+    background-color: transparent;
+    text-decoration: none;
+}
+.a1:hover {
+    text-decoration: underline;
+}
+
+#bodymm a:link, #bodymm a:visited{
+    color: #017ef4;
+    background-color: transparent;
+}
+
+#bodymm a:hover{
+    color: #FF0080;
+    background-color: transparent;
+    text-decoration: underline;
+}
